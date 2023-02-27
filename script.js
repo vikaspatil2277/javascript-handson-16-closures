@@ -11,10 +11,10 @@ function counter(){
     }
 
     var counter = counter();
-    alert(counter());
-    alert(counter());
-    alert(counter());
-    alert(counter());
+    // alert(counter());
+    // alert(counter());
+    // alert(counter());
+    // alert(counter());
 
 // Q2.
 
@@ -35,15 +35,15 @@ function counter(){
       }   
 
  //   Q4.
-     function areaWidth(width){
+ function arealength(length){
  
-        function areaBreadth(breadth){
-             
-            return width * breadth;
-          }
-          return areaBreadth(10);
-        }
-        console.log(areaWidth(10));   
+    function areaBreadth(breadth){
+     
+      return length * breadth;
+    }
+    return areaBreadth(10);
+  }
+  console.log(arealength(10));  
        
 
     //   Q5.
